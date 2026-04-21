@@ -18,7 +18,7 @@ I’m a developer transitioning from Localization Engineering to building infras
 * 🏎️ **INITIAL VROOM** – A full-stack telemetry platform that simulates head-to-head mountain pass battles and visualizes the results in a real-time dashboard. Currently using this to practice high-frequency data streaming.
 
 
-    [Live Demo](https://frontend.niceriver-1bba6173.spaincentral.azurecontainerapps.io/battle) | [Repo](https://github.com/purrtatogon/initial-vroom)
+    [Live Demo](https://initial-vroom-frontend.onrender.com) | [Repo](https://github.com/purrtatogon/initial-vroom)
 
 ### 💻 Technical Toolbox (Learning & Growing)
 * **Back-end:** Java 21 (Spring Boot 3), SQL (PostgreSQL), MongoDB, REST APIs.
